@@ -1,0 +1,15 @@
+{
+  "name": "@mc-khaled/npm-semver",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@https://github.com/MohsenKhaled/NPM-SemVer.git"
+  },
+  "author": "Mohsen Khaled",
+  "license": "MIT"
+}
