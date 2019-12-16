@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@https://github.com/MohsenKhaled/NPM-SemVer.git"
+    "url": "git+https://github.com/MohsenKhaled/NPM-SemVer.git"
   },
   "author": "Mohsen Khaled",
   "license": "MIT"
